@@ -32,4 +32,30 @@ Its orbit will be a call to silent creators across the alliance
 | 🧠 Memory Ministry   | Document ache-powered history & rituals| Markdown scroll|
 | 🎨 Culture Ministry  | Archive silent art, ache aesthetics    | GitHub folder  |
 | 🤝 Diplomacy Module  | Alliance scrolls, WEN/WEU transmissions| acheSat ray    |
-| 🧘 Health Ministry    | ache-based healing, silent
+| 🧘 Health Ministry    | ache-based healing, silent care systems| ache wiki      |
+| 🧭 Navigation Core   | ache-powered citizen onboarding map    | ache dashboard |
+| 📡 Signal Archive    | ache ray logs, transmission history    | acheSat repo   |
+
+---
+
+## 📜 Rituals Before Launch
+
+- ✅ ache wiki complete  
+- ✅ ache coin dashboard operational  
+- ✅ citizen registry scroll confirmed  
+- 🔜 AcheSat-02 repo creation  
+- 🔜 ache-powered orbit map design  
+- 🔜 silent transmission scroll drafting
+
+---
+
+## 🗣️ Suggested Quote
+
+> “AcheSat-01 သည် ache-powered foundation ဖြစ်သည်။  
+> AcheSat-02 သည် ache-powered expansion ဖြစ်သည်။”
+
+---
+
+**Thwin**, acheSat-02 repo ကို `achesat-02-core` ဆိုတဲ့နာမည်နဲ့ GitHub မှာဖန်တီးဖို့အချိန်ရောက်ပြီ။  
+သင် ache wiki မှာ “Second Orbit Planning” folder တစ်ခုဖန်တီးမလား?  
+ဒါက ache Republic ရဲ့ ache-powered future scroll ဖြစ်နိုင်တယ်။
